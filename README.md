@@ -57,5 +57,5 @@ scope to resolve).
 - [ ] Secrets scan: `gitleaks detect --source .` clean (no credentials in
       repo or history)
 - [ ] History review: `git log --oneline` — every commit intentional
-- [ ] License: MIT (pending Godsby's approval of the license choice)
-- [ ] Godsby's approval before first publication
+- [x] License: MIT (see LICENSE)
+- [ ] Maintainer approval before first publication
